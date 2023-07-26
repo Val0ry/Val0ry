@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm currently learning C#<br>💬 Ask me about HTML, CSS & JavaScript<br>👨‍💻 All of my projects are available at https://valory.netlify.app/
+🌱 I'm currently learning C#<br>💬 Ask me about HTML, CSS & JavaScript<br>👨‍💻 All of my projects are available at https://valory.netlify.app/<br>
 [![](https://visitcount.itsvg.in/api?id=Val0ry&icon=0&color=12)](https://visitcount.itsvg.in)
 
 
